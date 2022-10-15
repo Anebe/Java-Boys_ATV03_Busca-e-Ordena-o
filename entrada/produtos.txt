@@ -1,0 +1,5 @@
+5;Sabre de Luz;1200;
+1;Millennium Falcon;3000;
+3;Armadura de Beskar;500;
+2;Dark Saber;2000;
+4;Capacete Stormtrooper;350;

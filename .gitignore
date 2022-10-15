@@ -1,0 +1,7 @@
+.vscode/
+bin/
+build/
+dist/
+nbproject/
+*.xml
+manifest.mf

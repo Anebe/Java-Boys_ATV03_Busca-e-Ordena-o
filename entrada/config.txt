@@ -1,0 +1,21 @@
+
+
+Para executar no cmd: java -jar "Java Boys_ATV_Busca e Ordenação.jar" DADO
+
+DADO: Se refere ao número da questão desejada.
+
+nomes.txt: lista de palavra para fazer anagramas 2 QUESTÃO
+
+produtos.txt: lista de produtos para execução da 1 QUESTÃO
+sequencia.txt: lista de números para mediana da 4 QUESTÃO
+dadosQ1.txt: lista de número para 3 QUESTÃO
+
+PARA OS ALGORITMOS DE SORT 
+
+Para executar no cmd: java -jar "Java Boys_ATV_Busca e Ordenação.jar" NOME_SORT
+
+NOME_SORT: bucket  radix heap
+
+bucketDados.txt: lista de dados para bucket sort (ALUNOS NÃO PRECISAM MEXER COM ESSE)
+numeros.txt: lista de dados para heap sort (ALUNOS NÃO PRECISAM MEXER COM ESSE)
+dadosQ2.txt: lista de dados para radix sort(ALUNOS NÃO PRECISAM MEXER COM ESSE)
